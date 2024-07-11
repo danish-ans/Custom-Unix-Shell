@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Unix-like shell interface in C, allowing users to execute commands, manage processes, and utilize advanced features such as command history, input/output redirection, and inter-process communication via piping.
+This project contains the implementations of a Unix-like shell interface in C, allowing users to execute commands, manage processes, and utilize advanced features such as command history, input/output redirection, and inter-process communication via piping.
 
 ## Features
 
